@@ -49,7 +49,7 @@ To install and run QuizGame locally, follow these steps:
 
 If you have any questions, feedback, or inquiries, please feel free to reach out to me at:
 
-- **Email:** [milosjokic16@gmail.com](mailto:milosjokic16@gmail.com)
+- **Email:** [jokic.milos@outlook.com](mailto:jokic.milos@outlook.com)
 
 ## Gallery
 ![Quiz Selector](https://drive.google.com/uc?id=1a0n2YvqjlLRdTXXydYZlpFuXyNt4dc-z)
